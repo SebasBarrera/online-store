@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AACA,YACE,mBAAoB,CACpB,oBAAqB,CACrB,2BAA4B,CAC5B,eACF","file":"main.a22419a8.chunk.css","sourcesContent":["\n.line-clamp {\n  display: -webkit-box;\n  -webkit-line-clamp: 4;\n  -webkit-box-orient: vertical;\n  overflow: hidden;\n}"]}
